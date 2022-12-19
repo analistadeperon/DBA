@@ -17,7 +17,7 @@ GO
 
 INSERT 
 	INTO [dbo].[Usuario]([Usuario], [Senha])
-	VALUES ('tiagopariz', '123456'), 
-		   ('jonatanvies', '789012'), 
-		   ('alineloas', '345678');
+	VALUES ('Dom', '123456'), 
+		   ('jonh', '789012'), 
+		   ('IOS', '345678');
 GO
