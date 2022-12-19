@@ -1,0 +1,1 @@
+Add-Migration -ProjectName NomeDoProjetoDeDados -StartUpProjectName NomeDoProjetoDeInicializacao -ConfigurationTypeName NomeDoProjetoDeDados...Configuration -Name NomeDaMigration
